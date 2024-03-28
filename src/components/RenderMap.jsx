@@ -7,7 +7,7 @@ const RenderMap = ({ lat, lng }) => {
       const map = new Map({
         container: "map",
         style:
-          "https://api.maptiler.com/maps/streets/style.json?key=get_your_own_OpIi9ZULNHzrESv6T2vL",
+          "https://api.maptiler.com/maps/streets/style.json?key=DGXtYZdwpkrkweWeGr5U",
         center: [lng, lat],
         zoom: 9,
       });
