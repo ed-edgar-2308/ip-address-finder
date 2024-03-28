@@ -9,7 +9,7 @@ const RenderMap = ({ lat, lng }) => {
         style:
           "https://api.maptiler.com/maps/streets/style.json?key=DGXtYZdwpkrkweWeGr5U",
         center: [lng, lat],
-        zoom: 9,
+        zoom: 8,
       });
       new Marker().setLngLat([lng, lat]).addTo(map);
     }
