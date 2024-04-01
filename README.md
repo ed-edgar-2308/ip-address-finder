@@ -2,7 +2,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Ip Address Finder](https://ralph2308s.github.io/ip-address-finder/)
+- [Ip Address Finder](https://ed-edgar-2308.github.io/ip-address-finder/)
 
 ## 🔭 Available Scripts
 
